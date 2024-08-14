@@ -1,28 +1,52 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-08-14
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        TRAILS - Trustworthy and Inclusive Machines
       image:
-        filename: welcome.jpg
+        filename: trails_logo.png
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Natural language processing (NLP) has demonstrated impressive performance in some human tasks. To achieve such performance, current neural models need to be pre-trained on huge amounts of raw text data. This dependence on uncurated data has at least four indirect and unintended consequences that are relevant to our proposal:
+        <br>
+        1. Uncurated data tends to be linguistically and culturally non-diverse due to the statistical dominance of major languages and dialects in online texts (English vs. North Frisian, US English vs. UK English, etc.).
+        2. Pre-trained neural models such as the ubiquitous pre-trained language models (PLM) reproduce the features present in the data, including human biases.
+        3. Rare phenomena (or languages) in the "long tail" are often not sufficiently taken into account in model evaluation, leading to an underestimation of model performance, especially in real-world application scenarios.
+        4. The focus on achieving state-of-the-art results through the use of transfer learning with giant PLMs such as GPT4 or mT5 often underestimates alternative methods that are more accessible, efficient and sustainable.
+        <br>
+        As inclusion and trust are undermined by these problems, in TRAILS we focus on three main research directions to address such problems: (i) inclusion of underrepresented languages and cultures through multilingual and culturally sensitive NLP, (ii) robustness and fairness with respect to long-tail phenomena and classes and "trustworthy content", and (iii) robust and efficient NLP models that enable training and deployment of models for (i) and (ii). We also partially address economic inequality by aiming for more efficient models (objective (iii)), which directly translates into a lower resource/cost footprint.
   
+  - block: people
+    content:
+      title: Meet the TRAILS Team
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+        - Principal Investigators
+        - Researchers
+        - PhD Students
+        - Administration
+        - Visitors
+        - Alumni
+      sort_by: Params.last_name
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: true
+
   - block: collection
     content:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -33,32 +57,14 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
-      columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+    #  view: card
+    #  columns: '1'
+      view: 3
+      columns: '2'
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Recent Publications
       text: ""
       count: 5
       filters:
@@ -67,14 +73,5 @@ sections:
         publication_type: 'article'
     design:
       view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+      columns: '2'
 ---

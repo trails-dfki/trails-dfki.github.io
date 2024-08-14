@@ -1,5 +1,6 @@
 ---
 title: "An example journal article"
+draft: true  # set to false or remove to show the page
 authors:
 - admin
 - Robert Ford
