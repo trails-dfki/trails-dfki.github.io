@@ -7,9 +7,11 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
   font: native
-  font_size: L
+  font_size: S
+  mode: system
+  #color: emerald
 
 # SEO
 
@@ -30,16 +32,22 @@ marketing:
     baidu: ''
 
 # Site header
-
+# see https://docs.hugoblox.com/getting-started/customize/#header
 header:
   navbar:
     enable: true
-    align: r
+    align: l
     show_logo: true
     show_language: false
     show_day_night: true
+    show_theme_chooser: true
     show_search: true
     highlight_active_link: false
+    logo:
+      # Logo text
+      text: "TRAILS - Trustworthy and Inclusive Machines"
+      # Logo filename in `assets/media/` folder
+      filename: "trails_logo.png"
 
 # Site footer
 
@@ -57,7 +65,7 @@ footer:
 locale:
   date_format: '2. Jan 2006'
   time_format: '15:04'
-  address_format: en-us
+  address_format: de
 
 # Site features
 
@@ -71,10 +79,10 @@ features:
     enable: true
   privacy_pack:
     enable: true
-  repository:
-    url: 'https://github.com/trails-dfki/trails-dfki.github.io'
-    content_dir: content
-    branch: main
+  #repository:
+  #  url: 'https://github.com/trails-dfki/trails-dfki.github.io'
+  #  content_dir: content
+  #  branch: main
   avatar:
     gravatar: false
     shape: circle
