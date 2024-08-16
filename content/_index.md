@@ -79,7 +79,7 @@ sections:
     content:
       title: Recent Publications
       text: ""
-      count: 2
+      count: 15
       filters:
         folders:
           - publication

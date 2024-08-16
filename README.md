@@ -13,4 +13,5 @@
 # Adding publications
 
 See here: https://docs.hugoblox.com/reference/content-types/#publications 
+**Note**: Keeping old publications in publications.bib means they are duplicated, so remove existing bib entries before pushing a new version!
 
