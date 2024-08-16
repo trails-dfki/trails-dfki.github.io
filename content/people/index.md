@@ -13,10 +13,10 @@ sections:
       user_groups:
         - Principal Investigators
         - Researchers
-        - PhD Students
-        - Administration
-        - Visitors
-        - Alumni
+        #- PhD Students
+        #- Administration
+        #- Visitors
+        #- Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:
