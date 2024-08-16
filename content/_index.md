@@ -54,7 +54,7 @@ sections:
 # https://docs.hugoblox.com/getting-started/page-builder/#personalizing-blocks
   - block: collection
     content:
-      title: Latest News
+      title: News
       subtitle:
       text:
       count: 3
@@ -79,7 +79,7 @@ sections:
     content:
       title: Recent Publications
       text: ""
-      count: 5
+      count: 15
       filters:
         folders:
           - publication
