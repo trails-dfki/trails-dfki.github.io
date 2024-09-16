@@ -24,7 +24,10 @@ abstract: In this paper, we investigate the use of large language models (LLMs) 
   We observe minimal performance discrepancies among LLMs for this task, and our survey
   on helpfulness underscores the subjective nature of editors' perspectives on editorial
   refinement.
+url_dataset: https://github.com/DFKI-NLP/faq-rewrites-llms
+url_pdf:  https://www.dfki.de/fileadmin/user_upload/import/15191_Telekom__FAQ_Rewriting__INLG_Review_Submission-1.pdf
 links:
 - name: URL
-  url: ''
+  url: https://www.dfki.de/web/forschung/projekte-publikationen/publikation/15191
+
 ---
