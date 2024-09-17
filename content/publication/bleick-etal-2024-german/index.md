@@ -11,7 +11,10 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 17th International Natural Language Generation Conference*'
 abstract: 
+url_pdf: https://aclanthology.org/2024.inlg-main.13.pdf
+url_code: https://github.com/B43M/SycophancyLLMGermanPolitics/
+url_dataset: https://github.com/B43M/SycophancyLLMGermanPolitics/
 links:
 - name: URL
-  url: ''
+  url: 'https://aclanthology.org/2024.inlg-main.13/'
 ---
