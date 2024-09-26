@@ -6,8 +6,8 @@ authors:
 - Nils Feldhus
 - Simon Ostermann
 - Sebastian Möller
-date: '2024-09-26'
-publishDate: '2024-09-26T13:10:18.998131Z'
+date: '2024-09-25'
+publishDate: '2024-09-25T13:10:18.998131Z'
 publication_types:
 - paper-conference
 publication: '*Findings of the Association for Computational Linguistics: EMNLP 2024*'
