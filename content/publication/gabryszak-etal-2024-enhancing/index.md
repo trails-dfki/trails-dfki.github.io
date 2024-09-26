@@ -8,7 +8,7 @@ authors:
 - Luca Sion
 - Leonhard Hennig
 date: '2024-09-01'
-publishDate: '2024-08-21T13:10:18.998131Z'
+publishDate: '2024-09-21T13:10:18.998131Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 17th International Natural Language Generation Conference*'
