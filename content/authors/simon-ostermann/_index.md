@@ -26,7 +26,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Question Answering
+- Explainability and Interpretability
+- Multilinguality and Low-Resoruce NLP
+- Efficient NLP
 
 #education:
 #  courses:
@@ -76,3 +78,4 @@ tags: [Researchers]
 ---
 
 ## About Me
+I am a computational linguist and senior researcher at the Multilinguality and Language Technology lab at the German Research Center for Artificial Intelligence, where I am currently leading mid-sized research projects both administratively and scientifically. My research interests are mainly on transparent and robust language models and language technology. I'm working on making the parameters and behavior of language models more explainable and understandable to both end users and researchers. Also, I work on improving data consumption (e.g., for low-resource settings or languages) by using structured data, new learning techniques, or other modalities, and size of LMs (e.g., for settings without powerful hardware). In my work, I mostly use large language models trained with deep learning methods. I have been leading and managing a range of nationally and internationally funded (sub) projects, such as Cora4NLP, DisAI, and LT-Bridge.
