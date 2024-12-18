@@ -1,5 +1,5 @@
 ---
-title: 'Adapting Multilingual LLMs to Low-Resource Languages with Knowledge Graphs via Adapters'
+title: 'A Comparison of Different Tokenization Methods for the Georgian Language'
 authors:
 - Beso Mikaberidze
 - Temo Saghinadze
