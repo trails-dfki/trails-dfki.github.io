@@ -4,7 +4,7 @@ draft: false
 ---
 
 ## Responsible service provider
-Responsible for the content of the domain cora4nlp.github.io from the point of view of § 5 TMG:
+Responsible for the content of the domain trails-dfki.github.io from the point of view of § 5 TMG:
 
 Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)  
 Management:  
@@ -23,7 +23,7 @@ Register Number: HRB 2313
 ID-Number: DE 148 646 973  
 
 
-The person responsible for the editorial content of the domain cora4nlp.github.io of the German Research Center for Artificial Intelligence GmbH within the meaning of § 18 para. 2 MStV is:
+The person responsible for the editorial content of the domain trails-dfki.github.io of the German Research Center for Artificial Intelligence GmbH within the meaning of § 18 para. 2 MStV is:
 
 Dr. Leonhard Hennig, Senior Researcher  
 DFKI Lab Berlin  
