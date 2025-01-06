@@ -28,11 +28,12 @@ image:
 projects: []
 ---
 
-DFKI will have a strong presence at the [62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)](https://2024.aclweb.org/), one of the top venues of language technology, that will take place August 11-16 in Bangkok, Thailand. Researchers from the TRAILS project will present 3 papers, and additional 3 are presented by other researchers from DFKI's [Multilinguality and Language Technology](https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology) and [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) departments. The papers appeared in the main conference (Findings) as well as 3 co-located events: [The 11th Workshop on Argument Mining](https://argmining-org.github.io/2024/), the [BioNLP 2024 and Shared Tasks Workshop](https://aclweb.org/aclwiki/BioNLP_Workshop), and the [Towards Knowledgeable Language Models Workshop](https://knowledgeable-lm.github.io/). 
+DFKI will have a strong presence at the [62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)](https://2024.aclweb.org/), one of the top venues of language technology, that will take place August 11-16 in Bangkok, Thailand. Researchers from the TRAILS project will present 4 papers, and additional 3 are presented by other researchers from DFKI's [Multilinguality and Language Technology](https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology) and [Speech and Language Technology](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology) departments. The papers appeared in the main conference (Findings) as well as 4 co-located events: [The 11th Workshop on Argument Mining](https://argmining-org.github.io/2024/), the [BioNLP 2024 and Shared Tasks Workshop](https://aclweb.org/aclwiki/BioNLP_Workshop), [Towards Knowledgeable Language Models Workshop](https://knowledgeable-lm.github.io/), and the [Knowledge Graphs and Large Language Models Workshop](https://kallmworkshop.github.io/kallm2024/). 
 
 The TRAILS-related papers presented at the conference are the following:  
 
 {{< cite page="/publication/binder-2024-dialam" view="4" >}}
 {{< cite page="/publication/courtois-2024-symmetric" view="4" >}}
 {{< cite page="/publication/macphail-2024-evaluating" view="4" >}}
+{{< cite page="/publication/gurgurov-etal-2024-adapting" view="4" >}}
 

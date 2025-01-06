@@ -10,6 +10,8 @@ authors:
 - Simon Ostermann
 - Lonneke van der Plas
 - Philipp Müller
+date: '2024-10-20'
+publishDate: '2024-10-20T13:10:18.998131Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 7th International Conference on Natural Language and Speech Processing (ICNLSP 2024)*'

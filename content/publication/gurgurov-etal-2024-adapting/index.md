@@ -4,6 +4,8 @@ authors:
 - Daniil Gurgurov
 - Mareike Hartmann
 - Simon Ostermann
+date: '2024-08-15'
+publishDate: '2024-08-15T13:10:18.998131Z
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 1st Workshop on Knowledge Graphs and Large Language Models (KaLLM 2024)*'
