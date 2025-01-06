@@ -7,6 +7,8 @@ authors:
 - Emmanuel Vincent
 - Natalia Skachkova
 - Josef van Genabith
+date: '2024-11-12'
+publishDate: '2024-12-21T13:10:18.998131Z'
 publication_types:
 - paper-conference
 publication: '*Findings of the Association for Computational Linguistics: EMNLP 2024*'
