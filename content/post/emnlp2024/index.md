@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "One paper by TRAILS authors accepted to EMNLP 2024"
+title: "Two papers by TRAILS authors accepted to EMNLP 2024"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,7 +28,8 @@ image:
 projects: []
 ---
 
-One paper from researchers in the TRAILS project has been accepted as a Findings paper at the [2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)](https://2024.emnlp.org/). EMNLP will take place November 12-16 in Miami, Florida. The paper introduces the first multilingual and multimodal dataset annotated with anaphoric relations and presents experimental results for end-to-end multimodal and multilingual anaphora resolution.
+Two papers from researchers in the TRAILS project have been accepted as Findings papers at the [2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)](https://2024.emnlp.org/). EMNLP will take place November 12-16 in Miami, Florida. The first paper, titled "MMAR: Multilingual and Multimodal Anaphora Resolution in Instructional Videos", introduces the first multilingual and multimodal dataset annotated with anaphoric relations and presents experimental results for end-to-end multimodal and multilingual anaphora resolution. The second paper presents CoXQL, a dataset for user intent recognition for conversational XAI systems, covering 31 intents, seven of which require filling multiple slots. The paper also presents an improved parsing approach for intent recognition and slot filling on this dataset, which is evaluated using different LLMs. 
 
 {{< cite page="/publication/oguz-etal-2024-mmar" view="4" >}}
+{{< cite page="/publication/wang-etal-2024-coxql" view="4" >}}
 
