@@ -1,5 +1,5 @@
 ---
-title: GrEmLIn: A Repository of Green Baseline Embeddings for 87 Low-Resource Languages Injected with Multilingual Graph Knowledge
+title: 'GrEmLIn: A Repository of Green Baseline Embeddings for 87 Low-Resource Languages Injected with Multilingual Graph Knowledge'
 authors:
 - Daniil Gurgurov
 - Rishu Kumar
