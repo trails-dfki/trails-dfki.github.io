@@ -33,8 +33,7 @@ interests:
 education:
   courses:
   - course: German Studies for Teachers
-    institution I: Foreign Language College for Teacher Training in Bydgoszcz (Poland)
-    institution II: Adam Mickiewicz University in Poznań (Poland)
+    institution: Foreign Language College for Teacher Training in Bydgoszcz (Poland)
 #    year: 2012
   - course: Linguistics and Computer Science
     institution: Free University of Berlin (Germany)
