@@ -25,17 +25,19 @@ organizations:
 bio: 
 
 # List each interest with a dash
-#interests:
-#- Interest 1
-#- Interest 2
+interests:
+- Natural Language Processing: Information Extraction, Text Generation
+- Data Generation: Manual, Crowdsourcing, Automated Methods
+- Domains of Interest: Biomedical, Journalism/Editorial, Finance
 
-#education:
-#  courses:
-#  - course: Title course 1
-#    institution: Name of Institution
+education:
+  courses:
+  - course: German Studies for Teachers
+    institution I: Foreign Language College for Teacher Training in Bydgoszcz (Poland)
+    institution II: Adam Mickiewicz University in Poznań (Poland)
 #    year: 2012
-#  - course: Title course 1
-#    institution: Name of Institution
+  - course: Linguistics and Computer Science
+    institution: Free University of Berlin (Germany)
 #    year: 2012
 
 # Social/Academic Networking
