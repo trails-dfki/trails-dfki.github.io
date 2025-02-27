@@ -26,9 +26,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Natural Language Processing: Information Extraction, Text Generation
-- Data Generation: Manual, Crowdsourcing, Automated Methods
-- Domains of Interest: Biomedical, Journalism/Editorial, Finance
+- "Natural Language Processing: Information Extraction, Text Generation"
+- "Data Generation: Manual, Crowdsourcing, Automated Methods"
+- "Domains of Interest: Biomedical, Journalism/Editorial, Finance"
 
 education:
   courses:
