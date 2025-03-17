@@ -3,7 +3,7 @@ title: 'Enabling Low-Resource Language Retrieval: Establishing Baselines for Urd
 authors:
 - Umer Butt
 - Stalin Varanasi
-- Günter Neumann
+- guenter-neumann
 date: '2025-01-17'
 publication_types:
 - paper-conference

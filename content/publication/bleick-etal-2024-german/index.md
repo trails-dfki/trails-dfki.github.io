@@ -4,7 +4,7 @@ authors:
 - Maximilian Bleick 
 - Nils Feldhus
 - Aljoscha Burchardt
-- Sebastian Möller
+- sebastian-moeller
 date: '2024-09-21'
 publishDate: '2024-08-21T13:10:18.998131Z'
 publication_types:

@@ -5,7 +5,7 @@ authors:
 - Dorothea MacPhail
 - David Harbecke
 - Lisa Raithel
-- Sebastian Möller
+- sebastian-moeller
 date: '2024-08-01'
 publishDate: '2024-08-16T09:59:01.005317Z'
 publication_types:

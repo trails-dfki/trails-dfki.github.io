@@ -5,7 +5,7 @@ authors:
 - Tatiana Anikina
 - Nils Feldhus
 - Simon Ostermann
-- Sebastian Möller
+- sebastian-moeller
 - Vera Schmitt
 date: '2024-12-13'
 publishDate: '2024-12-13T13:10:18.998131Z'
