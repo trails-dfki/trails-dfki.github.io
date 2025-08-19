@@ -11,7 +11,7 @@ sections:
         TRAILS - Trustworthy and Inclusive Machines
         <br><br>{{< figure src="trails_logo_small.png" alt="TRAILS - Sponsored by the Federal Ministry of Education and Research" >}}
       image:
-        filename: trails_logo.png
+        filename: trails_logo_small.png
       text: |
 
         Natural language processing (NLP) has demonstrated impressive performance in some human tasks. To achieve such performance, current neural models need to be pre-trained on huge amounts of raw text data. This dependence on uncurated data has at least four indirect and unintended consequences:
