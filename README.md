@@ -12,6 +12,10 @@
 
 # Adding publications
 
-See here: https://docs.hugoblox.com/reference/content-types/#publications 
-**Note**: Keeping old publications in publications.bib means they are duplicated, so remove existing bib entries before pushing a new version!
+- Copy an existing folder in content/publication or create a new one: `cp -r content/publication/wang-etal-2025-cross/ content/publication/new_folder_name`
+- Copy our bib file to the new folder and name it 'cite.bib': `cp your-publication.bib content/publication/new_folder_name/cite.bib`
+- Edit the 'index.md' file, and change it to reflect the cite.bib file
+
+~~See here: https://docs.hugoblox.com/reference/content-types/#publications 
+#**Note**: Keeping old publications in publications.bib means they are duplicated, so remove existing bib entries before pushing a new version!~~
 
