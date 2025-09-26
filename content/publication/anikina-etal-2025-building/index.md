@@ -4,7 +4,7 @@ authors:
 - Tatiana Anikina
 - Alina Leippert
 - Simon Ostermann
-date: '2025-10-26'
+date: '2025-09-26'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Second Workshop on Language Understanding in the Human-Machine Era*'

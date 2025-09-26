@@ -7,7 +7,7 @@ authors:
 - Tatiana Anikina
 - Michal Gregor
 - Marian Simko 
-date: '2025-11-04'
+date: '2025-09-26'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Association for Computational Linguistics: EMNLP 2025*'
