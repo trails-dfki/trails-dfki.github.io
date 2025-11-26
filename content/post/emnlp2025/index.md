@@ -34,5 +34,5 @@ Five papers from researchers in the TRAILS project have been accepted as Main an
 {{< cite page="/publication/wang-etal-2025-multilingual" view="4" >}}
 {{< cite page="/publication/anikina-etal-2025-rigorous" view="4" >}}
 {{< cite page="/publication/jakob-2025-polbix" view="4" >}}
-{{< cite page="/publication/tumurchuluun-2025-tenseloc" view="4" >}}
+{{< cite page="/publication/tumurchuluun-etal-2025-tenseloc" view="4" >}}
 
