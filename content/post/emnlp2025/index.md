@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Four papers by TRAILS authors accepted to EMNLP 2025"
+title: "Five papers by TRAILS authors accepted to EMNLP 2025"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Four papers from researchers in the TRAILS project have been accepted as Main and Findings papers at the [2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)](https://2025.emnlp.org/), and one has been accepted as best paper at the Workshop on Multilingual Representation Learning. EMNLP will take place November 4-9 in Suzhou, China. The first paper, titled "Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems", introduces two multilingual datasets in the context of Conversational XAI systems, one for intent recognition, and one for slot filling / input extraction. The second paper presents the first comprehensive evaluation of large language models (LLMs) for multilingual previously fact-checked claim detection. The third paper systematically evaluates the performance of various prompt-based synthetic generation strategies for low-resource languages. Using three NLP tasks and four open-source LLMs, the paper also assesses downstream model performance on generated versus gold-standard data. Finally, the fourth paper investigates political bias in LLMs through exchanging words in minimal sentence pairs with euphemisms or dysphemisms in German claims. 
+Five papers from researchers in the TRAILS project have been accepted as Main and Findings papers at the [2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)](https://2025.emnlp.org/), and one has been accepted as best paper at the Workshop on Multilingual Representation Learning. EMNLP will take place November 4-9 in Suzhou, China. The first paper, titled "Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems", introduces two multilingual datasets in the context of Conversational XAI systems, one for intent recognition, and one for slot filling / input extraction. The second paper presents the first comprehensive evaluation of large language models (LLMs) for multilingual previously fact-checked claim detection. The third paper systematically evaluates the performance of various prompt-based synthetic generation strategies for low-resource languages. Using three NLP tasks and four open-source LLMs, the paper also assesses downstream model performance on generated versus gold-standard data. Finally, the fourth paper investigates political bias in LLMs through exchanging words in minimal sentence pairs with euphemisms or dysphemisms in German claims. The last paper investigates how decoder-only transformers represent, transfer, and control tense across eight typologically diverse languages: English, German, French, Italian, Portuguese, Hindi, Spanish, and Thai.
 
 {{< cite page="/publication/vykopal-etal-2025-large" view="4" >}}
 {{< cite page="/publication/wang-etal-2025-multilingual" view="4" >}}
