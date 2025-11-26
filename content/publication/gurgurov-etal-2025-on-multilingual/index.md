@@ -1,0 +1,18 @@
+---
+title: 'On Multilingual Encoder Language Model Compression for Low-Resource Languages'
+authors:
+- Daniil Gurgurov
+- Michal Gregor
+- Josef van Genabith
+- Simon Ostermann 
+date: '2025-11-14'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (Student Research Workshop)*'
+publication_short: IJCNLP-AACL 2025
+abstract: 'In this paper, we combine two-step knowledge distillation, structured pruning, truncation, and vocabulary trimming for extremely compressing multilingual encoder-only language models for low-resource languages. Our novel approach systematically combines existing techniques and takes them to the extreme, reducing layer depth, feed-forward hidden size, and intermediate layer embedding size to create significantly smaller monolingual models while retaining essential language-specific knowledge. We achieve compression rates of up to 92% while maintaining competitive performance, with average drops of 2-10% for moderate compression and 8-13% at maximum compression in four downstream tasks, including sentiment analysis, topic classification, named entity recognition, and part-of-speech tagging, across three low-resource languages. Notably, the performance degradation correlates with the amount of language-specific data in the teacher model, with larger datasets resulting in smaller performance losses. Additionally, we conduct ablation studies to identify the best practices for multilingual model compression using these techniques. '
+url_pdf: https://arxiv.org/pdf/2505.16956
+links:
+- name: URL
+  url: https://arxiv.org/abs/2505.16956
+---
