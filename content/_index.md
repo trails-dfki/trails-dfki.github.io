@@ -26,7 +26,7 @@ sections:
         
         As inclusion and trust are undermined by these problems, in TRAILS we focus on three main research directions to address such problems: (i) inclusion of underrepresented languages and cultures through multilingual and culturally sensitive NLP, (ii) robustness and fairness with respect to long-tail phenomena and classes and "trustworthy content", and (iii) robust and efficient NLP models that enable training and deployment of models for (i) and (ii). We also partially address economic inequality by aiming for more efficient models (objective (iii)), which directly translates into a lower resource/cost footprint.
 
-        TRAILS is funded by the German Federal Ministry of Education and Research (BMBF) under the funding code 01IW24005.
+        TRAILS is funded by the German Federal Ministry of Research, Technology and Space (BMFTR) under the funding code 16IW24005.
     design:
       columns: '2'
       # Choose your content listing view - here we use the `showcase` view
