@@ -1,5 +1,5 @@
 ---
-title: 'The Lookahead Limitation: Why Multi-Operand Addition is Hard for {LLM}s'
+title: 'The Lookahead Limitation: Why Multi-Operand Addition is Hard for LLMs'
 authors:
 - Tanja Baeumel
 - Josef Van Genabith
