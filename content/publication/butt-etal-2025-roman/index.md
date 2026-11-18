@@ -1,0 +1,17 @@
+---
+title: 'Roman Urdu as a Low-Resource Language: Building the First IR Dataset and Baseline'
+authors:
+- Umer Butt
+- Günther Neumann
+- Josef van Genabith
+date: '2025-09-11'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the Workshop on Advancing NLP for Low-Resource Languages: RANLP 2025*'
+publication_short: LowResNLP 2025
+abstract: "The field of Information Retrieval (IR) increasingly recognizes the importance of inclusivity, yet addressing the needs of low-resource languages, especially those with informal variants, remains a significant challenge. This paper addresses a critical gap in effective IR systems for Roman Urdu, a romanized version of Urdu i.e a language with millions of speakers, widely used in digital communication yet severely underrepresented in research and tooling. Roman Urdu presents unique complexities due to its informality, lack of standardized spelling conventions, and frequent code-switching with English. Crucially, prior to this work, there was a complete absence of any Roman Urdu IR dataset or dedicated retrieval work. To address this critical gap, we present the first-ever large-scale IR MS-marco translated dataset specifically for Roman Urdu, created through a multi-hop pipeline involving English-to-Urdu translation followed by Urdu-to-Roman Urdu transliteration. Using this novel dataset, we train and evaluate a multilingual retrieval model, achieving substantial improvements over traditional lexical retrieval baselines (MRR@10: 0.19 vs. 0.08; Recall@10: 0.332 vs. 0.169). This work lays foundational benchmarks and methodologies for Roman Urdu IR especially using the transformer based models, significantly contributing to inclusive information access and setting the stage for future research in informal, Romanized, and low-resource languages."
+url_pdf: https://aclanthology.org/2025.lowresnlp-1.9.pdf
+links:
+- name: URL
+  url: https://aclanthology.org/2025.lowresnlp-1.9/ 
+---
