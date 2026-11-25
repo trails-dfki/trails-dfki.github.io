@@ -27,8 +27,8 @@ The person responsible for the editorial content of the domain trails-dfki.githu
 
 Dr. Leonhard Hennig, Senior Researcher  
 DFKI Lab Berlin  
-Alt-Moabit 91c  
-D-10559 Berlin  
+Kesselhaus in der Lanolinfabrik, Salzufer 15/16
+10587 Berlin, Germany
 Tel: +49 (0)30 / 238 95-0  
 Email: leonhard.hennig@dfki.de  
 Website URL: www.dfki.de  
