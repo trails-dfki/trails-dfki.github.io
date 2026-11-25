@@ -6,25 +6,25 @@ type: landing
 
 sections:
 
-#  - block: contact
-#    content:
-#      title: Contact MLT
-#      text:
-#      email:
-#      phone:
-#      address:
-#        street: Stuhlsatzenhausweg 3, Saarland Informatics Campus D 3_2
-#        city: Saarbrücken
-#        region: Saarland
-#        postcode: '66123'
-#        country: Germany
-#        country_code: DE
-#      coordinates:
-#        longitude: '7.04215'
-#        latitude: '49.2566'
-#      directions:
-#      office_hours:
-#        - 9:00 to 17:00 Monday to Friday
+  - block: contact
+    content:
+      title: Contact MLT
+      text:
+      email:
+      phone:
+      address:
+        street: Stuhlsatzenhausweg 3, Saarland Informatics Campus D 3_2
+        city: Saarbrücken
+        region: Saarland
+        postcode: '66123'
+        country: Germany
+        country_code: DE
+      coordinates:
+        longitude: '7.04215'
+        latitude: '49.2566'
+      directions:
+      office_hours:
+        - 9:00 to 17:00 Monday to Friday
       #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
@@ -33,7 +33,7 @@ sections:
       #    link: 'https://discourse.gohugo.io'
 
       # Automatically link email and phone or display as text?
-#      autolink: true
+      autolink: true
 
       # Email form provider
       #form:
@@ -43,8 +43,8 @@ sections:
       #  netlify:
       #    # Enable CAPTCHA challenge to reduce spam?
       #    captcha: false
-#    design:
-#      columns: '1'
+    design:
+      columns: '1'
 
   - block: contact
     content:
