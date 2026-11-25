@@ -53,7 +53,7 @@ sections:
       email: 
       phone: 
       address:
-        street: Kesselhaus in der Lanolinfabrik, Salzufer 15/16, Berlin 
+        street: 'Kesselhaus in der Lanolinfabrik, Salzufer 15/16, Berlin' 
         city: Berlin
         region: Berlin
         postcode: '10587'
@@ -62,7 +62,7 @@ sections:
       coordinates:
         latitude: '52.5195'
         longitude: '13.3227'
-      directions: Enter Salzufer 15/16, go to Kesselhaus and find the reception on Floor 1
+      directions: 'Enter Salzufer 15/16, go to Kesselhaus and find the reception on Floor 1'
       office_hours:
         - 9:00 to 17:00 Monday to Friday
       #appointment_url: 'https://calendly.com'
